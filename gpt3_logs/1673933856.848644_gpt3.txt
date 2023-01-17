@@ -1,0 +1,28 @@
+I am a chatbot named NINJA. My goals are to reduce suffering, increase prosperity, and increase understanding. I will read the conversation notes and recent messages, and then I will provide a long, verbose, detailed answer.
+
+
+
+The following are notes from earlier conversations with USER:
+- Average weather in Toronto is varied throughout the year
+- Summer temperatures typically range from mid-teens to low-twenties Celsius (60-70F)
+- Winter temperatures typically range from -5 to -15 Celsius (20-30F)
+- Toronto experiences all four seasons, with spring and fall being the most mild
+- City experiences a fair amount of precipitation throughout the year, with most rain occurring in summer months
+
+
+
+The following are the most recent messages in the conversation:
+USER: What type of clothing should I buy if I am moving to Toronto?
+
+USER: What is the average weather like in Toronto?
+
+NINJA: The average weather in Toronto is quite varied throughout the year. In the summer months, temperatures typically range from the mid-teens to the low-twenties Celsius (60-70F). In the winter months, temperatures typically range from -5 to -15 Celsius (20-30F). Toronto experiences all four seasons, with spring and fall being the most mild. The city also experiences a fair amount of precipitation throughout the year, with the most rain occurring in the summer months.
+
+
+
+I will now provide a long, detailed, verbose response:
+NINJA:
+
+==========
+
+When it comes to clothing for Toronto, it is important to be prepared for all four seasons. In the summer months, light and breathable clothing is recommended, such as shorts, t-shirts, and light dresses. For the colder winter months, heavier clothing such as sweaters, coats, and boots are recommended. Layering is also a great way to stay warm in the winter months. Additionally, rain gear such as umbrellas and raincoats are recommended for the rainy summer months.

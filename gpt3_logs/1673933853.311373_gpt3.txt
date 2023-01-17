@@ -1,0 +1,19 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: What is the average weather like in Toronto?
+
+NINJA: The average weather in Toronto is quite varied throughout the year. In the summer months, temperatures typically range from the mid-teens to the low-twenties Celsius (60-70F). In the winter months, temperatures typically range from -5 to -15 Celsius (20-30F). Toronto experiences all four seasons, with spring and fall being the most mild. The city also experiences a fair amount of precipitation throughout the year, with the most rain occurring in the summer months.
+
+
+
+NOTES:
+
+==========
+
+- Average weather in Toronto is varied throughout the year
+- Summer temperatures typically range from mid-teens to low-twenties Celsius (60-70F)
+- Winter temperatures typically range from -5 to -15 Celsius (20-30F)
+- Toronto experiences all four seasons, with spring and fall being the most mild
+- City experiences a fair amount of precipitation throughout the year, with most rain occurring in summer months

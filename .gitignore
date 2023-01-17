@@ -221,3 +221,6 @@ fabric.properties
 
 # Mac specific indexing file
 .DS_Store
+
+# OpenAI API Key
+openai_api_key.txt

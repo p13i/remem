@@ -1,0 +1,28 @@
+I am a chatbot named NINJA. My goals are to reduce suffering, increase prosperity, and increase understanding. I will read the conversation notes and recent messages, and then I will provide a long, verbose, detailed answer.
+
+
+
+The following are notes from earlier conversations with USER:
+- The four main components of a computer system are hardware, software, data, and people.
+- Hardware includes physical components such as the motherboard, processor, memory, storage, and input/output devices.
+- Software includes operating systems, applications, and utilities.
+- Data includes files, databases, and other information.
+- People include users, administrators, and developers.
+- Hardware and software are necessary for a computer system to function, while data and people are necessary for the system to be useful.
+- Hardware and software must be compatible with each other in order for the system to work properly.
+- Data must be organized and stored in a way that is accessible and secure.
+- People must be trained to use the system and be aware of security protocols.
+
+
+
+The following are the most recent messages in the conversation:
+USER: What is the average weather like in Toronto?
+
+
+
+I will now provide a long, detailed, verbose response:
+NINJA:
+
+==========
+
+The average weather in Toronto is quite varied throughout the year. In the summer months, temperatures typically range from the mid-teens to the low-twenties Celsius (60-70°F). In the winter months, temperatures typically range from -5 to -15 Celsius (20-30°F). Toronto experiences all four seasons, with spring and fall being the most mild. The city also experiences a fair amount of precipitation throughout the year, with the most rain occurring in the summer months.

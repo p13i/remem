@@ -53,8 +53,7 @@ def fetch_memories(vector, logs, count):
     # TODO - pick more memories temporally nearby the top most relevant memories
     try:
         ordered = ordered[0:count]
-        return ordered
-    except:
+    finally:
         return ordered
 
 
